@@ -90,4 +90,4 @@ Open `mnist_digit_recognition.ipynb` in Jupyter Notebook or JupyterLab and run a
 
 ## 📄 License
 
-MIT 
+This project is licensed under the [MIT License](LICENSE).
