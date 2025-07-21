@@ -83,9 +83,8 @@ Open `mnist_digit_recognition.ipynb` in Jupyter Notebook or JupyterLab and run a
 
 ## 📸 Example
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hsjeong5/MNIST-for-Numpy/master/mnist.png" width="400" alt="MNIST Webcam Example"/>
-</p>
+<img width="634" height="508" alt="Screenshot 2025-07-21 104739" src="https://github.com/user-attachments/assets/69ea7501-8f4e-4f08-917c-da95ae6e1e65" />
+
 
 ---
 
